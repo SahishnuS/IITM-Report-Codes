@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Mar  7 11:17:44 2026
+# Process ID         : 9940
+# Current directory  : C:/Users/aadit/Documents/HardwareFirewall/VivadoLearning/TCAM_104/TCAM_104.runs/synth_1
+# Command line       : vivado.exe -log TCAM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TCAM.tcl
+# Log file           : C:/Users/aadit/Documents/HardwareFirewall/VivadoLearning/TCAM_104/TCAM_104.runs/synth_1/TCAM.vds
+# Journal file       : C:/Users/aadit/Documents/HardwareFirewall/VivadoLearning/TCAM_104/TCAM_104.runs/synth_1\vivado.jou
+# Running On         : VMWin11Pro
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Apple Part 000 r0p0
+# CPU Frequency      : 2000 MHz
+# CPU Physical cores : 5
+# CPU Logical cores  : 5
+# Host memory        : 34354 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 36501 MB
+# Available Virtual  : 30116 MB
+#-----------------------------------------------------------
+source TCAM.tcl -notrace

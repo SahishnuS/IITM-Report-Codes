@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_TCAM_behav/xsimk.exe -simmode gui -wdb TB_TCAM_behav.wdb -simrunnum 0 -socket 52586
+Design successfully loaded
+Design Loading Memory Usage: 20420 KB (Peak: 20420 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 22340 KB (Peak: 22340 KB)
+Simulation CPU Usage: 390 ms

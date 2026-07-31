@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../TCAM_104.srcs/sources_1/new/BRAM_Manager.sv" \
+"../../../../TCAM_104.srcs/sources_1/new/Priority_Encoder.sv" \
+"../../../../TCAM_104.srcs/sources_1/new/TCAM.sv" \
+"../../../../TCAM_104.srcs/sources_1/new/Word_Parser.sv" \
+"../../../../TCAM_104.srcs/sim_1/new/TB_TCAM.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
